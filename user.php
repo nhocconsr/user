@@ -15,7 +15,7 @@ $we_stat=true;
 
 $data= [
  //we
-'Kute AV',
+'Kute AV','info yeumobile',
 //y
 '1',
  //yg
